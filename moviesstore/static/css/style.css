@@ -33,10 +33,10 @@
   color: #fff;
 }
 .img-card-200 {
-  width: fit-content;
-  height: 200px;
+  width: 100%;
+  height: auto;
 }
 .img-card-400 {
-  width: fit-content;
-  height: 400px;
+  width: 100%;
+  height: auto;
 }
